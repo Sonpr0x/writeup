@@ -6,7 +6,7 @@
   - [WGCF](#WGCF)
   - [1.1.1.1](#1.1.1.1)
 - [Config](#Config)
-  - [Purchase Warp+ & Get license](#Purchase Warp+ & Get license)
+  - [Purchase Warp+ & Get license](#Purchase-Warp+-&-Get-license)
   - [Registry](#Registry)
 - [Run & Verify](#Run-&-Verify)
 
