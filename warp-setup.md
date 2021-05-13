@@ -58,7 +58,7 @@ If success output can same like this:
 2020/06/01 19:03:16 Quota: 0
 ```
 
-:no_entry: This step for config warp+ .
+> :no_entry: Next step for config warp+ .
 ```
 WGCF_LICENSE_KEY="ID-LICENSE" wgcf update
 ```
