@@ -4,11 +4,11 @@
 - [Install sevice](#Install)
   - [WireGuard](#WireGuard)
   - [WGCF](#WGCF)
-  - [1.1.1.1](#1.1.1.1)
+  - [1.1.1.1](#1111)
 - [Config](#Config)
-  - [Purchase Warp+ & Get license](#Purchase-Warp+-&-Get-license)
+  - [Purchase Warp+ & Get license](#purchase-warp--get-license)
   - [Registry](#Registry)
-- [Run & Verify](#Run-&-Verify)
+- [Run & Verify](#run--verify)
 
 ## Install
 ### WireGuard
@@ -107,10 +107,9 @@ wgcf trace
 If you look at the last line, it should say `warp=on` or `warp=plus`, depending on whether you have Warp or Warp+ respectively.
 
 
-## :postbox: Contact me
-Fb: /giangsonahh
-
-Gmail: Doanhoang277@gmail.com
-
 ## Reference
 https://github.com/ViRb3/wgcf
+
+:postbox: **Contact me**
+[FB](fb.com/giangsonahh/) /
+[Mail](mailto:doanhoang277@gmail.com)
