@@ -34,7 +34,7 @@ Download `1.1.1.1` on App Store or CH Play.
 ## Config
 
 ### Purchase Warp+ & Get license
-> U can skip this if don't use warp+.
+> U can skip this if don't want to use warp+.
 
 **Step 1:** Purchase Warp+ price 1$
 
