@@ -41,7 +41,7 @@ Download `1.1.1.1` on App Store or CH Play.
 **Step 2:** `1.1.1.1` \> `Setting` \> `Account` \> `Key` - save this ID.
 
 ### Registry
-Run command:
+Step 1, run command:
 ```
 cd /etc/wireguard
 wgcf register
@@ -58,7 +58,7 @@ If success output can same like this:
 2020/06/01 19:03:16 Quota: 0
 ```
 
-> :no_entry: Next step for config warp+ .
+> :no_entry: This step for config warp+ .
 ```
 WGCF_LICENSE_KEY="ID-LICENSE" wgcf update
 ```
@@ -67,7 +67,7 @@ output same like this:
 2020/06/01 19:03:16 Warp+ enabled: false
 ```
 
-Next, run command:
+Step 2, run command:
 ```
 wgcf generate
 ```
