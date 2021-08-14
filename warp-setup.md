@@ -112,7 +112,3 @@ If you look at the last line, it should say `warp=on` or `warp=plus`, depending 
 
 ## Reference
 https://github.com/ViRb3/wgcf
-
-:postbox: **Contact me**
-[FB](fb.com/giangsonahh/) /
-[Mail](mailto:doanhoang277@gmail.com)
