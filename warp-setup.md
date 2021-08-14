@@ -1,6 +1,6 @@
-Created: 15|3|2021
-Tags: Wireguard, Warp, Warp+
-Descript: Guide setup Cloudflare VPN (warp, warp+) with Wireguard
+Created: 15|3|2021.
+Tags: Wireguard, Warp, Warp+.
+Descript: Guide setup Cloudflare VPN (warp, warp+) with Wireguard.
 
 # Install Cloudflare VPN on Linux
 
