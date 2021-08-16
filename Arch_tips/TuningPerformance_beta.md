@@ -1,3 +1,7 @@
+Created: 10|8|2021
+Owner: Sonpr0x
+Descript: some basic boost performance on Arch linux (distro Garuda)
+
 # 1. Get mirror server
 # 2. Turn off wifi_power save
 # 3. Update key & package (sudo pacman -Sy archlinux-keyring chaotic-keyring)
@@ -7,7 +11,7 @@ mount -o remount,rw,noatime,nodatacow,space_cache=v2,noautodefrag,nodatacow,inod
 # 6. Turn on trim (ssd) ->
 https://superuser.com/questions/1546128/ssd-trim-on-archlinux
 https://wiki.archlinux.org/title/Solid_state_drive
-# 7. Nvidia driver ->
+# 7. Nvidia driver -> (module)
 sudo micro /etc/default/grub
 nouveau.modeset=0
 sudo update-grub
