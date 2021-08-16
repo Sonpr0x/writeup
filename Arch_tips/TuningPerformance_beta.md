@@ -1,5 +1,6 @@
 Created: 10|8|2021
 Owner: Sonpr0x
+Processing: 40% (updating content)
 Descript: some basic boost performance on Arch linux (distro Garuda)
 
 # 1. Get mirror server
