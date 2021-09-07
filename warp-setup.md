@@ -89,7 +89,7 @@ Output will be same like this:
 `wgcf-profile.conf`
 
 
-## Run & Verify
+# Run & Verify
 
 Run command:
 ```

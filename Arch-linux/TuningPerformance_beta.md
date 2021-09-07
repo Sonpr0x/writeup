@@ -27,6 +27,7 @@ https://github.com/FeralInteractive/gamemode
 https://wiki.archlinux.org/title/Samba#Improve_throughput
 ### + Filesystem for SSD
 https://en.wikipedia.org/wiki/List_of_file_systems#File_systems_optimized_for_flash_memory.2C_solid_state_media
+### + OpenGL or Vulkan API
 
 ### Refference
 https://wiki.archlinux.org/title/Improving_performance
